@@ -1,21 +1,22 @@
-pygments==2.19.2
-mdurl==0.1.2
-markdown-it-py==4.0.0
-rich==14.1.0
-streamlit==1.36.0
-
-fastapi==0.95.2
-uvicorn[standard]==0.22.0
-python-dotenv==1.0.1
+altair==5.5.0
+blinker==1.9.0
+cachetools==5.5.2
+click==8.2.1
+numpy==2.1.2
+pandas==2.3.2
+pillow==11.3.0
+protobuf==4.25.8
+pyarrow==21.0.0
 pydantic==1.10.11
-
-# Google Cloud & Vertex AI
-google-auth==2.23.0
-google-cloud-aiplatform==1.43.0
-
-# LangChain (core + Vertex AI integration)
-langchain-core==0.3.24
-langchain-google-vertexai==2.0.28
+pydantic-core==2.33.2
+requests==2.32.5
+setuptools==80.9.0
+streamlit==1.49.1
+tenacity==9.1.2
+toml==0.10.2
+typing-extensions==4.15.0
+urllib3==2.5.0
+watchdog==6.0.0
 
 
 
