@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import itertools
 
@@ -223,7 +223,7 @@ if st.button("🔵 Optimise Truck Loading", type="primary", use_container_width=
             st.success(
                 f"Arrangement: {fit_len} × {fit_wid} × {fit_hei} = {total_boxes} boxes"
             )
-=======
+
 import streamlit as st
 import itertools
 
@@ -448,4 +448,4 @@ if st.button("🔵 Optimise Truck Loading", type="primary", use_container_width=
             st.success(
                 f"Arrangement: {fit_len} × {fit_wid} × {fit_hei} = {total_boxes} boxes"
             )
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
