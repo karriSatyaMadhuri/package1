@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # llm_recommender.py
 
 import os
@@ -208,7 +208,7 @@ class LLMRecommender:
     def _clean_dimensions_tuple(self, dims: str):
         parts = re.split(r"[×x]", dims)
         return tuple(self._clean_dimension(p) for p in parts if p.strip())
-=======
+
 # llm_recommender.py
 
 import os
@@ -418,4 +418,4 @@ class LLMRecommender:
     def _clean_dimensions_tuple(self, dims: str):
         parts = re.split(r"[×x]", dims)
         return tuple(self._clean_dimension(p) for p in parts if p.strip())
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
