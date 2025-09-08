@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ==============================
 # Truck Optimisation Page
 # ==============================
@@ -191,7 +191,7 @@ if st.button("🔵 Optimise Truck Loading", use_container_width=True):
                 "</div><p style='margin-top:6px;'>🟩 Optimal box placement (sample layout)</p>",
                 unsafe_allow_html=True
             )
-=======
+
 # ==============================
 # Truck Optimisation Page
 # ==============================
@@ -384,4 +384,4 @@ if st.button("🔵 Optimise Truck Loading", use_container_width=True):
                 "</div><p style='margin-top:6px;'>🟩 Optimal box placement (sample layout)</p>",
                 unsafe_allow_html=True
             )
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
