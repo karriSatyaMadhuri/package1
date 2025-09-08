@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import sys, os
 
@@ -160,7 +160,7 @@ with right:
 if st.button("maximize truckload"):
     st.switch_page("pages/truckRec.py")
 
-=======
+
 import streamlit as st
 import sys, os
 
@@ -322,4 +322,3 @@ with right:
 if st.button("maximize truckload"):
     st.switch_page("pages/truckRec.py")
 
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
