@@ -13,8 +13,9 @@ pydantic==1.10.11
 google-auth==2.23.0
 google-cloud-aiplatform==1.43.0
 
-# LangChain
-langchain-core==0.0.240
+# LangChain (core + Vertex AI integration)
+langchain-core==0.3.24
+langchain-google-vertexai==0.2.4
 
 
 
