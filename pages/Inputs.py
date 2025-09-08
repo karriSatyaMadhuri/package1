@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 from llm_recommender import LLMRecommender
 
@@ -102,7 +102,7 @@ with right_col:
             st.switch_page("pages/InsertDesign.py")
         else:
             st.warning("⚠️ Please generate a recommendation first.")
-=======
+
 import streamlit as st
 from llm_recommender import LLMRecommender
 
@@ -206,4 +206,4 @@ with right_col:
             st.switch_page("pages/InsertDesign.py")
         else:
             st.warning("⚠️ Please generate a recommendation first.")
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
