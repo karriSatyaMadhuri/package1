@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 
 st.set_page_config(page_title="📦 Packaging Asset Recommender", layout="wide")
@@ -49,7 +49,7 @@ with col2:
     )
     if st.button("Maximise now →", key="maximise", use_container_width=True):
         st.switch_page("pages/truckload.py")
-=======
+
 import streamlit as st
 
 st.set_page_config(page_title="📦 Packaging Asset Recommender", layout="wide")
@@ -100,4 +100,4 @@ with col2:
     )
     if st.button("Maximise now →", key="maximise", use_container_width=True):
         st.switch_page("pages/truckload.py")
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
