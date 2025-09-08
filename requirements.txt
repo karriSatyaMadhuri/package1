@@ -15,8 +15,7 @@ google-cloud-aiplatform==1.43.0
 
 # LangChain (core + Vertex AI integration)
 langchain-core==0.3.24
-langchain-google-vertexai==0.2.4
-
+langchain-google-vertexai==2.0.28
 
 
 
