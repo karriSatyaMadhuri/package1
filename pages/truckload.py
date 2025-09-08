@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 
 st.set_page_config(page_title="Maximise Truck Load", layout="wide")
@@ -58,7 +58,7 @@ if st.button("Save"):
         st.switch_page("pages/save.py")  # requires streamlit >= 1.32
     else:
         st.error("❌ Please adjust percentages to total 100%.")
-=======
+
 import streamlit as st
 
 st.set_page_config(page_title="Maximise Truck Load", layout="wide")
@@ -118,4 +118,4 @@ if st.button("Save"):
         st.switch_page("pages/save.py")  # requires streamlit >= 1.32
     else:
         st.error("❌ Please adjust percentages to total 100%.")
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
