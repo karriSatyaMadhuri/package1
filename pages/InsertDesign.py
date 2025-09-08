@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import sys
 import os
@@ -119,7 +119,7 @@ st.text(summary)
 # -------------------------------
 if st.button("➡️ Go to Visualization"):
     st.switch_page("pages/Visualisation.py")
-=======
+
 import streamlit as st
 import sys
 import os
@@ -240,4 +240,4 @@ st.text(summary)
 # -------------------------------
 if st.button("➡️ Go to Visualization"):
     st.switch_page("pages/Visualisation.py")
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
+
