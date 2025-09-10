@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Core packages for your project
 streamlit==1.49.1
 numpy==2.1.2
@@ -34,10 +34,9 @@ pillow==11.3.0
 pydantic==1.10.11
 pydantic-core==2.33.2
 typing-extensions==4.15.0
-=======
+
 # Core dependencies
-streamlit==1.49.1
-numpy==2.1.2
+
 pandas==2.3.2
 pillow==11.3.0
 altair==5.5.0
@@ -80,9 +79,3 @@ colorama==0.4.6
 python-dotenv==1.0.1
 jsonschema==4.25.1
 
-
-
-
-
-
->>>>>>> 3a3863a0610f90db8b3fb50756d9c2afa1d1fc53
